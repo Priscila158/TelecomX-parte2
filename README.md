@@ -1,5 +1,8 @@
 
 📊 Telecom X – Previsão de Evasão de Clientes (Churn)
+
+
+
 📌 Sobre o Projeto
 
 Este projeto tem como objetivo desenvolver um modelo de Machine Learning capaz de prever a evasão de clientes (churn) na Telecom X.
@@ -103,6 +106,8 @@ O modelo Random Forest apresentou melhor desempenho geral, especialmente na iden
 ├── models/
 ├── README.md
 └── requirements.txt
+
+
 👩🏽‍💻 Autora
 
 Priscila Souza
